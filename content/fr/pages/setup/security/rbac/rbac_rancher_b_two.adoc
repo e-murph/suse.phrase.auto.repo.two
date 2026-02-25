@@ -23,7 +23,7 @@ Rôles délimités:: Permet d'accéder aux données {stackstate-product-name} de
 
 == Rôles des instances
 
-Vous pouvez attribuer les *modèles de rôle* pour les *rôles d'instance* à des utilisateurs ou à des groupes dans le *projet* qui exécute {stackstate-product-name}. Si aucun rôle d'instance n'est explicitement attribué à un membre d'un projet, il disposera des autorisations du rôle *Accès de base à l'instance.* 
+Vous pouvez attribuer les *modèles de rôle* pour les *rôles d'instance* à des utilisateurs ou à des groupes dans le *projet* qui exécute {stackstate-product-name}. Si aucun rôle d'instance n'est explicitement attribué à un membre d'un projet, il disposera des autorisations du rôle *Accès de base à l'instance.*
 
 === Rôles d'instance avec accès aux données {stackstate-product-name} 
 
